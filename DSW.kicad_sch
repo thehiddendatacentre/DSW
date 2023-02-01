@@ -312,8 +312,17 @@
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/2d3d6b7c-036c-4cfa-91da-fdc8d15740ff"
       (reference "#PWR089") (unit 1) (value "GND") (footprint "")
     )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/53613a0a-5dfe-40c7-a516-1d023fc5fad0"
+      (reference "#PWR090") (unit 1) (value "GND") (footprint "")
+    )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/cd20c7e1-f016-4745-8bf6-a32001ecb9cd"
       (reference "#PWR091") (unit 1) (value "-12V") (footprint "")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/05f96d3c-c6a7-459f-a187-f9172f56db0c"
+      (reference "#PWR092") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/c6c801eb-a62e-4709-ba8f-cc4ab2962bb0"
+      (reference "#PWR093") (unit 1) (value "GND") (footprint "")
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/90c98e93-c769-4589-9cd1-fcfe50594677"
       (reference "#PWR094") (unit 1) (value "+12V") (footprint "")
@@ -323,6 +332,9 @@
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/4cc3e470-15a9-41d6-8ef0-ca9b4941d254"
       (reference "#PWR096") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/5b01a551-5830-4c34-991f-8c4bd9fdd15c"
+      (reference "#PWR097") (unit 1) (value "GND") (footprint "")
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/9eeccbb6-7aae-48a7-89fc-3d6e6a7a1ae3"
       (reference "#PWR0100") (unit 1) (value "GND") (footprint "")
@@ -452,6 +464,18 @@
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/b2ad3f57-1ba5-4043-9fbe-64ba17239ee7"
       (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/ed4183bb-781c-4145-b8f6-4f5cf606c8e9"
+      (reference "D13") (unit 1) (value "BAT42") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/4c768091-718d-4ee2-b919-91610b4989bf"
+      (reference "D14") (unit 1) (value "BAT42") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/b4e0d83a-1e44-4055-b69b-34a66bed64e8"
+      (reference "D15") (unit 1) (value "BAT42") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/fa33938a-7194-4189-9805-2e2648399ea3/61cd796f-f9d1-45f6-922e-b46b67f716a1"
+      (reference "D16") (unit 1) (value "BAT42") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/fa33938a-7194-4189-9805-2e2648399ea3/a2167960-f9c9-4609-b610-0da799bcc1d1"
       (reference "FREQ1") (unit 1) (value "10k") (footprint "winterbloom:Potentiometer_Alpha_R0904N")
@@ -677,12 +701,6 @@
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/30fd5545-10cd-4b51-a1d5-c2282eadfa0c"
       (reference "R38") (unit 1) (value "1Meg") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
-    )
-    (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/2ab027f5-912f-49bd-9f72-f2958e01d528"
-      (reference "R39") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
-    )
-    (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/9d720170-c18e-4ecb-9909-53262fbe88d3"
-      (reference "R40") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/72a225b7-3740-4caf-9ef5-4c660e16e7b3/d37ab749-0ad3-4118-9b80-ba843865acb7"
       (reference "R41") (unit 1) (value "330k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
